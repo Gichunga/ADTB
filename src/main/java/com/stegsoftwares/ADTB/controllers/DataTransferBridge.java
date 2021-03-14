@@ -28,8 +28,9 @@ public class DataTransferBridge {
         }else{
 
             //Show error to user
+            
         }
 
-        return  "success";
+        return  "successful";
     }
 }
